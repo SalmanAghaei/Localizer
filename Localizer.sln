@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "dotnet7Test\Api.csproj", "{29DFB1A3-4BDB-4EB0-A5C3-C46C7D751D78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Localizer\Api.csproj", "{29DFB1A3-4BDB-4EB0-A5C3-C46C7D751D78}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Resources.csproj", "{81F10FF8-6C7A-4574-AAFA-FEC89C606D8D}"
 EndProject
